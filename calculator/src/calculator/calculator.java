@@ -199,4 +199,10 @@ class calculator extends JFrame implements ActionListener {
         }
     }
 }
-
+/*Java Calculator code was provided by Tristan
+ * Code will be pushed to Github Repo
+ *  
+ * 
+ * 
+ * 
+ * */
