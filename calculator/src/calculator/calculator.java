@@ -201,8 +201,9 @@ class calculator extends JFrame implements ActionListener {
 }
 /*Java Calculator code was provided by Tristan
  * Code will be pushed to Github Repo
- *  
  * 
+ * following video used to connect Jenkins to github and trigger build on push to github
+ * https://www.youtube.com/watch?v=Z3S2gMBUkBo
  * 
  * 
  * */
