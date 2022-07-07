@@ -198,9 +198,26 @@ class calculator extends JFrame implements ActionListener {
             l.setText(s0 + s1 + s2);
         }
     }
+    //JUnit test1
+    public int square(int n)
+    {
+		return n*n;
+    }
+  //JUnit test2
+    public int sum(int a,int b)
+    {
+		return a+b;
+    }
+  //JUnit test3
+    public int diff(int a,int b)
+    {
+		return a-b;
+    }
 }
 /*Java Calculator code was provided by Tristan
  * Code will be pushed to Github Repo
+ * 
+ * 
  * 
  * following video used to connect Jenkins to github and trigger build on push to github
  * https://www.youtube.com/watch?v=Z3S2gMBUkBo
