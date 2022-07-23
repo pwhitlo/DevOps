@@ -224,8 +224,5 @@ class calculator extends JFrame implements ActionListener {
  * 
  * testing webhook!
  * 
- * testing webhook again!
- * 
- * push once more!!
  * */
 
