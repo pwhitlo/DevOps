@@ -223,6 +223,6 @@ class calculator extends JFrame implements ActionListener {
  * https://www.youtube.com/watch?v=Z3S2gMBUkBo
  * 
  * testing webhook!
- * testing if Jenkins will send email
+ * testing Jenkins Notification email!
  * */
 
